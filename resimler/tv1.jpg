@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="tvGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e293b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f172a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="#f1f5f9"/>
+  <rect x="50" y="80" width="300" height="200" rx="8" fill="url(#tvGrad)"/>
+  <rect x="65" y="95" width="270" height="170" fill="#3b82f6"/>
+  <rect x="160" y="280" width="80" height="10" fill="#475569"/>
+  <rect x="130" y="290" width="140" height="20" rx="10" fill="#64748b"/>
+  <text x="200" y="340" text-anchor="middle" fill="#1e293b" font-family="Arial, sans-serif" font-size="18" font-weight="bold">QLED TV</text>
+</svg>

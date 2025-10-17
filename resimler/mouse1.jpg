@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="mouseGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="#f1f5f9"/>
+  <ellipse cx="200" cy="180" rx="70" ry="90" fill="url(#mouseGrad)"/>
+  <rect x="195" y="120" width="10" height="40" fill="#d1fae5"/>
+  <ellipse cx="200" cy="210" rx="30" ry="10" fill="#047857" opacity="0.3"/>
+  <text x="200" y="320" text-anchor="middle" fill="#10b981" font-family="Arial, sans-serif" font-size="18" font-weight="bold">WIRELESS MOUSE</text>
+</svg>

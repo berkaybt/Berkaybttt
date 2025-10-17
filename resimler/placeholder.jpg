@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#e2e8f0"/>
+  <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="#64748b" font-family="Arial, sans-serif" font-size="24">Ürün Görseli</text>
+  <path d="M150 180 L200 130 L250 180 L280 150 L280 240 L120 240 Z" fill="#94a3b8"/>
+  <circle cx="160" cy="150" r="15" fill="#fbbf24"/>
+</svg>
