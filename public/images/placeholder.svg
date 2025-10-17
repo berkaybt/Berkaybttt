@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f3f4f6"/>
+      <stop offset="100%" stop-color="#e5e7eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <g fill="none" stroke="#d1d5db" stroke-width="4">
+    <rect x="100" y="100" width="1000" height="600" rx="24"/>
+    <path d="M200 620 L420 380 L620 520 L820 320 L1000 520"/>
+    <circle cx="360" cy="300" r="60"/>
+  </g>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Segoe UI, Roboto, Inter" font-size="48" fill="#9ca3af">Görsel Yok</text>
+</svg>
