@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="macGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#94a3b8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#64748b;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="#f1f5f9"/>
+  <rect x="60" y="90" width="280" height="170" rx="8" fill="url(#macGrad)"/>
+  <rect x="70" y="100" width="260" height="150" fill="#1e293b"/>
+  <rect x="40" y="260" width="320" height="15" rx="5" fill="#cbd5e1"/>
+  <ellipse cx="200" cy="278" rx="70" ry="10" fill="#94a3b8"/>
+  <text x="200" y="320" text-anchor="middle" fill="#64748b" font-family="Arial, sans-serif" font-size="20" font-weight="bold">MacBook Pro</text>
+</svg>
