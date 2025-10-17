@@ -1,0 +1,36 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Arial, "Apple Color Emoji", "Segoe UI Emoji"; color: #1f2937; background: #f8fafc; }
+a { color: #111827; text-decoration: none; }
+.container { max-width: 1080px; margin: 0 auto; padding: 0 16px; }
+.site-header { background: white; border-bottom: 1px solid #e5e7eb; }
+.header-inner { display: flex; align-items: center; justify-content: space-between; padding: 16px 0; }
+.logo { font-weight: 700; font-size: 20px; }
+nav a { margin-left: 16px; color: #374151; }
+nav a:hover { color: #111827; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; }
+.card { background: white; border: 1px solid #e5e7eb; border-radius: 10px; padding: 12px; display: flex; flex-direction: column; }
+.card img { width: 100%; height: 160px; object-fit: contain; background: #f3f4f6; border-radius: 8px; }
+.card h3 { margin: 12px 0 6px; font-size: 16px; }
+.card p { margin: 0 0 8px; color: #6b7280; font-size: 14px; }
+.price { font-weight: 700; margin-top: auto; }
+.button { display: inline-block; background: #111827; color: white; padding: 10px 14px; border-radius: 8px; text-align: center; }
+.button.secondary { background: #4b5563; }
+.button:hover { filter: brightness(1.05); }
+
+.product { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+.product img { width: 100%; height: 340px; object-fit: contain; background: #f3f4f6; border-radius: 12px; }
+@media (max-width: 768px) {
+  .product { grid-template-columns: 1fr; }
+}
+
+.table { width: 100%; border-collapse: collapse; background: white; border-radius: 10px; overflow: hidden; border: 1px solid #e5e7eb; }
+.table th, .table td { padding: 12px; border-bottom: 1px solid #e5e7eb; text-align: left; }
+.table th { background: #f3f4f6; }
+
+.form { background: white; border: 1px solid #e5e7eb; border-radius: 10px; padding: 16px; }
+.form .row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.form label { display: block; font-weight: 600; margin: 8px 0 4px; }
+.form input, .form textarea { width: 100%; padding: 10px; border: 1px solid #d1d5db; border-radius: 8px; }
+.form .actions { margin-top: 16px; }
+.alert { background: #fef3c7; color: #92400e; border: 1px solid #f59e0b; padding: 10px 12px; border-radius: 8px; margin-bottom: 12px; }
+.success { background: #dcfce7; color: #166534; border: 1px solid #22c55e; }
