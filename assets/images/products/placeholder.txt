@@ -1,0 +1,24 @@
+Bu klasörde ürün resimleri bulunacaktır.
+
+Örnek ürün resimleri için aşağıdaki dosyaları ekleyin:
+
+1. iphone15pro.jpg - iPhone 15 Pro resmi
+2. samsung-s24-ultra.jpg - Samsung Galaxy S24 Ultra resmi
+3. macbook-air-m3.jpg - MacBook Air M3 resmi
+4. nike-air-max-270.jpg - Nike Air Max 270 resmi
+5. adidas-ultraboost-22.jpg - Adidas Ultraboost 22 resmi
+6. levis-501.jpg - Levi's 501 Jean resmi
+7. zara-bluz.jpg - Zara Kadın Bluz resmi
+8. ikea-kallax.jpg - IKEA Kallax Raf resmi
+
+Resim boyutları:
+- Ana resim: 800x600 piksel
+- Thumbnail: 300x300 piksel
+- Format: JPG, PNG veya WebP
+
+Resimlerin boyutlarını optimize etmek için:
+- TinyPNG (https://tinypng.com/)
+- ImageOptim (Mac)
+- GIMP (Ücretsiz)
+
+Not: Gerçek ürün resimlerini kullanırken telif haklarına dikkat edin.
