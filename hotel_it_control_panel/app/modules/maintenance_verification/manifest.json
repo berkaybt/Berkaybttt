@@ -1,0 +1,6 @@
+{
+  "key": "maintenance_verification",
+  "title": "Maintenance Verification",
+  "order": 18,
+  "requires_admin": false
+}

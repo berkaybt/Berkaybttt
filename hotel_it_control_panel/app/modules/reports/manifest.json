@@ -1,0 +1,6 @@
+{
+  "key": "reports",
+  "title": "Raporlar",
+  "order": 9,
+  "requires_admin": false
+}

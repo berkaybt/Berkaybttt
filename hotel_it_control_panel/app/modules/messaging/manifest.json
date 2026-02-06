@@ -1,0 +1,6 @@
+{
+  "key": "messaging",
+  "title": "Mesajlaşma",
+  "order": 8,
+  "requires_admin": false
+}

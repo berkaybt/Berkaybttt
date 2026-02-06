@@ -1,0 +1,6 @@
+{
+  "key": "outlook_tools",
+  "title": "Outlook",
+  "order": 7,
+  "requires_admin": false
+}

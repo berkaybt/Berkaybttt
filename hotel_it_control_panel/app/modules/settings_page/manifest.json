@@ -1,0 +1,6 @@
+{
+  "key": "settings_page",
+  "title": "Ayarlar",
+  "order": 11,
+  "requires_admin": false
+}

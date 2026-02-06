@@ -1,0 +1,6 @@
+{
+  "key": "server_connections",
+  "title": "Sunucu Bağlantıları",
+  "order": 5,
+  "requires_admin": false
+}

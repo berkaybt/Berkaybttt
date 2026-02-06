@@ -1,0 +1,6 @@
+{
+  "key": "pc_maintenance",
+  "title": "Bakım",
+  "order": 6,
+  "requires_admin": true
+}

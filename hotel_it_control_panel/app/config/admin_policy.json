@@ -1,0 +1,21 @@
+{
+  "roles": ["USER", "ADMIN", "IT_ADMIN", "AUDIT"],
+  "features": {
+    "maintenance": true,
+    "outlook_tools": true,
+    "messaging": true,
+    "reports": true,
+    "inventory": true,
+    "scripts_runner": false,
+    "approvals": true,
+    "incidents": true,
+    "network_security": true,
+    "maintenance_verification": true,
+    "verification_center": true
+  },
+  "admin_only": ["deep_cleanup", "sfc_dism"],
+  "cleanup_whitelist": ["%TEMP%", "C:/Windows/Temp"],
+  "allowed_commands": ["ipconfig", "route", "netsh"],
+  "safe_mode": false,
+  "read_only": false
+}

@@ -1,0 +1,6 @@
+{
+  "key": "network_monitor",
+  "title": "Ağ İzleme",
+  "order": 3,
+  "requires_admin": false
+}
