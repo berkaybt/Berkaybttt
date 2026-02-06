@@ -1,0 +1,6 @@
+{
+  "key": "verification_center",
+  "title": "Verification Center",
+  "order": 16,
+  "requires_admin": false
+}

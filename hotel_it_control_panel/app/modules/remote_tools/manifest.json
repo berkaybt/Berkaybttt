@@ -1,0 +1,6 @@
+{
+  "key": "remote_tools",
+  "title": "Uzak Araçlar",
+  "order": 4,
+  "requires_admin": false
+}

@@ -1,0 +1,6 @@
+{
+  "key": "incidents",
+  "title": "Olaylar",
+  "order": 14,
+  "requires_admin": false
+}

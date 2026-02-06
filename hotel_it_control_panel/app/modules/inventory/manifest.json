@@ -1,0 +1,6 @@
+{
+  "key": "inventory",
+  "title": "Envanter",
+  "order": 2,
+  "requires_admin": false
+}

@@ -1,0 +1,18 @@
+{
+  "default_ip_range": "192.168.1.1-254",
+  "recent_ips": [],
+  "server_list": [],
+  "tools": {
+    "anydesk_path": "",
+    "rustdesk_path": "",
+    "teamviewer_path": ""
+  },
+  "messaging": {
+    "server_url": "ws://127.0.0.1:8000/ws",
+    "token": "hotel-it-token"
+  },
+  "theme": "dark",
+  "role": "USER",
+  "log_retention_days": 30,
+  "central_policy_path": "\\\\SERVER\\HotelITSuite\\policy\\admin_policy.json"
+}

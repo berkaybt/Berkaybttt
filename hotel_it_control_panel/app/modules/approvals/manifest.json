@@ -1,0 +1,6 @@
+{
+  "key": "approvals",
+  "title": "Onaylar",
+  "order": 13,
+  "requires_admin": true
+}

@@ -1,0 +1,6 @@
+{
+  "key": "ticket_notes",
+  "title": "Notlar",
+  "order": 10,
+  "requires_admin": false
+}

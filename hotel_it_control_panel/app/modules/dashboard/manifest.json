@@ -1,0 +1,6 @@
+{
+  "key": "dashboard",
+  "title": "Dashboard",
+  "order": 1,
+  "requires_admin": false
+}

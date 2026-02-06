@@ -1,0 +1,6 @@
+{
+  "key": "about",
+  "title": "Hakkında",
+  "order": 12,
+  "requires_admin": false
+}

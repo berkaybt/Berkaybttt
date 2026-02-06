@@ -1,0 +1,6 @@
+{
+  "key": "scripts_runner",
+  "title": "Script Runner",
+  "order": 15,
+  "requires_admin": true
+}

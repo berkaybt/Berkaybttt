@@ -1,0 +1,6 @@
+{
+  "key": "network_security",
+  "title": "Network Security",
+  "order": 17,
+  "requires_admin": false
+}
